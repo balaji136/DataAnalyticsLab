@@ -1,0 +1,2 @@
+HBase reference guide
+https://hbase.apache.org/book.html
